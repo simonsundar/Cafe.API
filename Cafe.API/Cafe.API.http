@@ -1,0 +1,6 @@
+@GICCafe.API_HostAddress = http://localhost:5102
+
+GET {{GICCafe.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

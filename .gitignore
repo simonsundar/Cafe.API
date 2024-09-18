@@ -1,0 +1,103 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.sql
+*.sqlite
+
+# .NET Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]/*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.pdb
+*.pidb
+*.svd
+*.suo
+*.csproj.user
+*.dbmdl
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# MongoDB
+*.mongo
+*.mongod
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.package
+*.nuget
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.csproj.user
+*.nuget
+*.nupkg
+*.snupkg
+
+# Azure Pipelines
+*.azure-pipelines.yml
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Logs
+*.log
+*.log.*
+
+# Secrets
+secrets.json
+
+# Test Results
+test-results/
+
+# JetBrains Rider
+.idea/
+
+# Local history for JetBrains products
+.localhistory/
+
+# WebStorm
+.idea/
+
+# NCrunch
+.ncrunch*
+*.ncrunch*
+*.ncrunchproject

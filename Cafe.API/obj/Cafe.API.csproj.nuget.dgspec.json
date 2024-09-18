@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.API\\Cafe.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.API\\Cafe.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.API\\Cafe.API.csproj",
+        "projectName": "Cafe.API",
+        "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.API\\Cafe.API.csproj",
+        "packagesPath": "C:\\Users\\SIMON SUNDAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIMON SUNDAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Application\\Cafe.Application.csproj": {
+                "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Application\\Cafe.Application.csproj"
+              },
+              "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\Cafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\Cafe.Domain.csproj"
+              },
+              "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Infrastructure\\Cafe.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Infrastructure\\Cafe.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Application\\Cafe.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Application\\Cafe.Application.csproj",
+        "projectName": "Cafe.Application",
+        "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Application\\Cafe.Application.csproj",
+        "packagesPath": "C:\\Users\\SIMON SUNDAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIMON SUNDAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\Cafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\Cafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\Cafe.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\Cafe.Domain.csproj",
+        "projectName": "Cafe.Domain",
+        "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\Cafe.Domain.csproj",
+        "packagesPath": "C:\\Users\\SIMON SUNDAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIMON SUNDAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Infrastructure\\Cafe.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Infrastructure\\Cafe.Infrastructure.csproj",
+        "projectName": "Cafe.Infrastructure",
+        "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Infrastructure\\Cafe.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\SIMON SUNDAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIMON SUNDAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\GICCafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\SIMON SUNDAR\\Downloads\\Cafe.API-main\\Cafe.API-main\\Cafe.Domain\\GICCafe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
