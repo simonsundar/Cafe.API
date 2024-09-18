@@ -1,9 +1,9 @@
 # GIC Assignment Backend APIs 
 
-## Cafe Management Using : .NET 8.0 , MongoDB , XUnit, MediatR for CQRS and DDD  
+## Cafe Management Using : .NET 6.0 , MongoDB , XUnit, MediatR for CQRS and DDD  
  
 
-This project is a .NET 8.0 web application that uses MongoDB for data storage, MediatR for CQRS (Command Query Responsibility Segregation) pattern, and Docker for containerization. It includes CRUD operations for employees and cafes in DDD pattern , along with query endpoints and MongoDB seeding.
+This project is a .NET 6.0 web application that uses MongoDB for data storage, MediatR for CQRS (Command Query Responsibility Segregation) pattern, and Docker for containerization. It includes CRUD operations for employees and cafes in DDD pattern , along with query endpoints and MongoDB seeding.
 
 ## Project Structure
 
@@ -17,8 +17,8 @@ This project is a .NET 8.0 web application that uses MongoDB for data storage, M
 - Docker
 - Docker Compose
 - Mongo DB Compass
-- Visual Studio Latest version =
-- .NET SDK 8.0
+- Visual Studio Latest version
+- .NET SDK 6.0
 
 ### Domain-Driven Design(DDD)
 Domain-Driven Design(DDD) is a collection of principles and patterns that help developers craft elegant object systems. Properly applied it can lead to software abstractions called domain models. These models encapsulate complex business logic, closing the gap between business reality and code.
@@ -28,7 +28,7 @@ Domain-Driven Design(DDD) is a collection of principles and patterns that help d
 ### 1. Clone the Repository and run mongo using docker 
 
 ```bash
-git clone https://github.com/manojkke/GICCafe.API.git
+git clone https://github.com/simonsundar/Cafe.API.git
 
 
 cd GICCafe.API
